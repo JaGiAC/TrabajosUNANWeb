@@ -1,0 +1,36 @@
+html{
+    background-color:bisque;
+}
+.tarjeta{
+    margin-left:35%;
+    margin-top:15%;
+    border:black groove 15px;
+    border-radius:10px;
+    width:500px;
+    padding:15px;
+    padding-top:0;
+    text-align:center;
+}
+.tarjeta h2{
+    font-size:40px;;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style:oblique;
+    font-weight:bolder;
+    color:forestgreen;
+}
+.tarjeta h2 img{
+    height:100px;
+    width:100px;
+    margin-bottom:0;
+    
+}
+.puesto{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:20px;
+    font-weight:bold;
+    color:chocolate;
+}
+.contacto{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:300px;
+}
